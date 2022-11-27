@@ -1,0 +1,15 @@
+﻿X.1,State,Region,Division,County,FIPS,GEOID,SMS Region,Year,Premature death,Poor or fair health,...,Drug poisoning deaths,Uninsured adults,Uninsured children,Health care costs,Could not see doctor due to cost,Other primary care providers,Median household income,Children eligible for free lunch,Homicide rate,Inadequate social support
+3243,NC,South,South Atlantic,Alamance County,37001,37001,Region 20,1/1/2014,7123,0.192,...,10.48,0.259,0.073,8640,0.167,46,41394,0.444,4.94,0.202
+3244,NC,South,South Atlantic,Alamance County,37001,37001,Region 20,1/1/2015,7291,0.192,...,12.38,0.249,0.088,9050,0.167,56,43001,0.455,4.6,NaN
+3245,NC,South,South Atlantic,Alexander County,37003,37003,Region 20,1/1/2014,7974,0.178,...,22.74,0.24,0.077,9316,0.205,30,39655,0.417,6.27,0.273
+3246,NC,South,South Atlantic,Alexander County,37003,37003,Region 20,1/1/2015,8079,0.178,...,24.04,0.239,0.076,9242,0.205,32,46064,0.449,7.2,NaN
+3247,NC,South,South Atlantic,Alleghany County,37005,37005,Insuff Data,1/1/2014,8817,0.234,...,18.18,0.32,0.131,9585,0.21,55,34046,0.523,NaN,0.215
+...,...,...,...,...,,,,,,,,,,,,,,,,...,...
+3438,NC,South,South Atlantic,Wilson County,37195,37195,Region 20,1/1/2015,8028,0.159,...,7.31,0.262,0.079,9450,0.107,77,40772,0.556,9.6,NaN
+3439,NC,South,South Atlantic,Yadkin County,37197,37197,Region 20,1/1/2014,7893,0.207,...,18.45,0.252,0.097,10084,0.158,32,40012,0.422,3.76,0.241
+3440,NC,South,South Atlantic,Yadkin County,37197,37197,Region 20,1/1/2015,7258,0.207,...,20.21,0.242,0.094,10998,0.158,32,40998,0.455,NaN,NaN
+3441,NC,South,South Atlantic,Yancey County,37199,37199,Region 15,1/1/2014,6872,0.193,...,20.79,0.268,0.11,7707,0.158,79,36019,0.477,NaN,0.176
+3442,NC,South,South Atlantic,Yancey County,37199,37199,Region 15,1/1/2015,8917,0.193,...,28.02,0.246,0.091,7870,0.158,74,35866,0.469,NaN,NaN
+200 rows × 64 columns,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+​,,,,,,,,,,,,,,,,,,,,,
