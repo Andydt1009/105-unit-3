@@ -14,5 +14,3 @@ Data repository was created for Prof. Gotzler's Engl 105 class at the Univeristy
 
 This github repository is the final project for Unit 3 of the fall section of Engl 105
 
-<iframe title="North Carolina Public Health Data" aria-label="Table" id="datawrapper-chart-DIhGc" src="https://datawrapper.dwcdn.net/DIhGc/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="957" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
-</script>
